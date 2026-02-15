@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BRUH Management System", "BRUH Management System.csproj", "{190F4DCC-8DC1-4E91-99DF-6659EA8C2674}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{190F4DCC-8DC1-4E91-99DF-6659EA8C2674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{190F4DCC-8DC1-4E91-99DF-6659EA8C2674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{190F4DCC-8DC1-4E91-99DF-6659EA8C2674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{190F4DCC-8DC1-4E91-99DF-6659EA8C2674}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE09FE4A-9459-42D9-A3F6-9543AC2BDD5F}
+	EndGlobalSection
+EndGlobal
